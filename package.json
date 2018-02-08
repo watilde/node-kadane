@@ -1,0 +1,20 @@
+{
+  "name": "node-kadane",
+  "version": "1.0.0",
+  "description": "Kadane algorithm in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/node-kadane.git"
+  },
+  "keywords": ["subarray", "kadane"],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/node-kadane/issues"
+  },
+  "homepage": "https://github.com/watilde/node-kadane#readme"
+}
