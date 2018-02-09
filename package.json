@@ -1,5 +1,5 @@
 {
-  "name": "node-kadane",
+  "name": "kadane",
   "version": "1.0.0",
   "description": "Kadane algorithm in Node.js",
   "main": "index.js",
