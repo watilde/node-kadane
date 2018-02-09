@@ -13,4 +13,5 @@ $ npm install kadane
 ```js
 const kadane = require('kadane')
 const max = kadane([1, 2, 3])
+// => 6
 ```
